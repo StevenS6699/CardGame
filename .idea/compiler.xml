@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ITSD Card Game-build" target="" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ITSD Card Game" options="-Xlint:unchecked -Xlint:deprecation -Werror -encoding utf8 -g" />
+    </option>
+  </component>
+</project>
